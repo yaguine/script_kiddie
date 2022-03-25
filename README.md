@@ -1,4 +1,4 @@
-# Script Kiddie Writeup (Hack The Box) by [yaguine](https://github.com/yaguine)
+# Script Kiddie Writeup (Hack The Box) by [yag1n3](https://github.com/yaguine)
 
 ### objetive 
 * user flag
